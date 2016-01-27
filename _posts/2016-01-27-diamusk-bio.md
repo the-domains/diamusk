@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography of Diamusk alias Adisa Zvekić
-datePublished: '2016-01-27T07:30:59.318Z'
-dateModified: '2016-01-27T07:30:44.942Z'
+datePublished: '2016-01-27T07:31:57.121Z'
+dateModified: '2016-01-27T07:31:53.463Z'
 title: Diamusk bio
 author: []
+sourcePath: _posts/2016-01-27-diamusk-bio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-diamusk-bio.md
-published: true
 url: diamusk-bio/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62f9c92c-e4c2-4d73-b83d-e8052db52bb7.jpg)
+
 **Bosnian born singer/songwriter Adisa Zvekić has been a 
 performing artist since the 1990s. Her unique and powerful vocal talents
 have been vital contributions to the musical projects of bands like _Gluho Doba against Def Age -- GDADA (BIH)_, _Dubioza Kolektiv (BIH)_ and _La Cherga (AUT)_. From her home in Bergen, Norway, she has launched her own solo project under the artist name _Diamusk_.**
