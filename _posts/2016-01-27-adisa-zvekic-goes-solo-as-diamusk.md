@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Adisa Zvekić has launched her own solo project under the artist name Diamusk
-datePublished: '2016-01-27T20:35:36.463Z'
+datePublished: '2016-01-27T20:35:36.468Z'
 dateModified: '2016-01-27T08:20:42.074Z'
 title: Adisa Zvekic goes solo as Diamusk
 author: []
