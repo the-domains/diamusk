@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Adisa Zvekić has launched her own solo project under the artist name Diamusk
-datePublished: '2016-01-27T07:27:58.994Z'
-dateModified: '2016-01-27T07:27:47.870Z'
-title: Adisa Zvekić goes solo as Diamusk
+datePublished: '2016-01-27T20:35:36.454Z'
+dateModified: '2016-01-27T08:20:42.074Z'
+title: Adisa Zvekic goes solo as Diamusk
 author: []
+sourcePath: _posts/2016-01-27-adisa-zvekic-goes-solo-as-diamusk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-adisa-zvekic-goes-solo-as-diamusk.md
-published: true
 url: adisa-zvekic-goes-solo-as-diamusk/index.html
 _type: Article
 
